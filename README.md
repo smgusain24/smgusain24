@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaurya Maan Gusain
+
+I’m a backend-focused **Software Enginer** with a knack for building systems that handle real-world scale and make people’s lives easier. I am currently working at [Statiq](https://www.statiq.in/). I love building scalable systems and solving real-world problems with code. My proficiency lies in Python and Golang. 
+
+## 🛠️ Skills
+
+- **Languages:** Python, Go (Golang)
+- **Databases:** SQL, NoSQL, Redis
+- **APIs:** REST, gRPC
+- **Cloud:** AWS
+- **Other:** System Design, Backend Engineering
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/smgusain/)
 
 <!--
-**smgusain24/smgusain24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fun facts and more projects coming soon! 🚗💡
 -->
